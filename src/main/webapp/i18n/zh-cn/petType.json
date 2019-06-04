@@ -1,0 +1,17 @@
+{
+  "jHipsterDemoApp": {
+    "PetType": {
+      "null": "",
+      "JINMAO": "JINMAO",
+      "HASHIQI": "HASHIQI",
+      "SHAMOYE": "SHAMOYE",
+      "KEJI": "KEJI",
+      "ALASIJIA": "ALASIJIA",
+      "BIANMU": "BIANMU",
+      "TIANYUAN": "TIANYUAN",
+      "BOMEI": "BOMEI",
+      "TAIDI": "TAIDI",
+      "DEMU": "DEMU"
+    }
+  }
+}

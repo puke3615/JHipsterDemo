@@ -1,0 +1,11 @@
+{
+  "jHipsterDemoApp": {
+    "ContentType": {
+      "null": "",
+      "IMAGE": "IMAGE",
+      "VIDEO": "VIDEO",
+      "AUDIO": "AUDIO",
+      "NONE": "NONE"
+    }
+  }
+}

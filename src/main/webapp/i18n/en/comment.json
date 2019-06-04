@@ -1,0 +1,28 @@
+{
+  "jHipsterDemoApp": {
+    "comment": {
+      "home": {
+        "title": "Comments",
+        "createLabel": "Create a new Comment",
+        "createOrEditLabel": "Create or edit a Comment"
+      },
+      "created": "A new Comment is created with identifier {{ param }}",
+      "updated": "A Comment is updated with identifier {{ param }}",
+      "deleted": "A Comment is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Comment {{ id }}?"
+      },
+      "detail": {
+        "title": "Comment"
+      },
+      "created": "Created",
+      "updated": "Updated",
+      "deleted": "Deleted",
+      "depth": "Depth",
+      "text": "Text",
+      "user": "User",
+      "content": "Content",
+      "parent": "Parent"
+    }
+  }
+}
