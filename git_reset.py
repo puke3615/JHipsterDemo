@@ -19,8 +19,8 @@ def invoke(command, exit_when_fail=True):
     return success, result
 
 
-RESET_HARD = False
-DELETE_UN_TRACKED = False
+RESET_HARD = True
+DELETE_UN_TRACKED = True
 
 if __name__ == '__main__':
     if RESET_HARD:
