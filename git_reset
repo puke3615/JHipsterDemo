@@ -1,1 +1,3 @@
-python ./git_reset.py
+# python ./git_reset.py
+git reset --hard origin/develop
+git clean -fd
